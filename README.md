@@ -1,2 +1,2 @@
-# UserMenagment
+# UserManagment
 SpringBoot api crud with AngularJS
